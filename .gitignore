@@ -174,18 +174,18 @@ poetry.toml
 pyrightconfig.json
 
 # Resource files
-/pycode/resource/*
+/pyCode/resource/*
 
 # Sound files
-/pycode/sound/*
+/pyCode/sound/*
 
 # Submodule files
-/pycode/sub/*
+/pyCode/sub/*
 
 # Specific python script inside pycode folder
-/pycode/module.test.py
+/pyCode/module.test.py
 
 # Object files inside pycode folder
-/pycode/test.obj
+/pyCode/test.obj
 
 # End of https://www.toptal.com/developers/gitignore/api/python
