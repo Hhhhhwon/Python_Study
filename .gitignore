@@ -173,4 +173,19 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+# Resource files
+/pycode/resource/*
+
+# Sound files
+/pycode/sound/*
+
+# Submodule files
+/pycode/sub/*
+
+# Specific python script inside pycode folder
+/pycode/module.test.py
+
+# Object files inside pycode folder
+/pycode/test.obj
+
 # End of https://www.toptal.com/developers/gitignore/api/python
